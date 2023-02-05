@@ -1,6 +1,7 @@
 ---
 title: "Augmented Reality in Healthcare"
 ---
+<link href="style.css" rel="stylesheet"></link>
 <div class="title"> # Augmented reality in Healthcare </div>
 
 <div class="header"> ## *What is augmented reality?</div>
