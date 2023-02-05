@@ -1,5 +1,5 @@
-#remote_theme: songzivong/dark-minima
-remote_theme: "adamrehn/jekyll-theme-gitbook@v0.0.6"
+remote_theme: songzivong/dark-minima
+
 plugins:
 - jekyll-remote-theme
 title: Augmented Reality in Healthcare
