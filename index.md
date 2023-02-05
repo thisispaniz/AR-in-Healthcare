@@ -1,5 +1,5 @@
 ---
-title: "Augmented Reality in Healthcare"
+title: " "
 ---
 ![Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-metaverse-background_22434491.htm">Freepik</a>](https://user-images.githubusercontent.com/99075803/216849561-e4391588-b8a3-4a7a-ae2e-94ce5d9a96a7.jpg)
 ## *What is augmented reality?
