@@ -84,7 +84,7 @@ https://www.fingent.com/blog/augmented-reality-in-healthcare-use-cases-examples-
 
 https://www.medicalaugmentedreality.org/
 
-==================================================================================
+=================================================================
 
 github: [thisispaniz](https://github.com/thisispaniz)
 twitter: [PanizZiaie](https://twitter.com/PanizZiaie)
