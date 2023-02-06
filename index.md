@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Augmented Reality in Healthcare"
 ---
 
 ## What is augmented reality?
@@ -12,6 +12,8 @@ The most important benefit of augmented reality is that elements of the virtual 
 	
 Students can interactively participate. Instead of being a passive recipient of the information, they can become active learners. Computer-generated simulations of patients allow students to explore and learn in detail the different situations without the risk of studying an actual patient.
 
+![6628915](https://user-images.githubusercontent.com/99075803/216924395-8dd4fd41-ffd6-4fa7-9c2c-d58100394d78.jpg)
+Image by Freepik
 
 ## Medical augmented reality
 
@@ -81,10 +83,4 @@ Augmented reality has come a long way and is helping countless people with their
 <p>https://www.fingent.com/blog/augmented-reality-in-healthcare-use-cases-examples-and-trends/</p>
 
 <p>https://www.medicalaugmentedreality.org/</p>
-
-=================================================================
-
-github: [thisispaniz](https://github.com/thisispaniz)
-twitter: [PanizZiaie](https://twitter.com/PanizZiaie)
-
 
