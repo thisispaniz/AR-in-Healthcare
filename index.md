@@ -67,22 +67,19 @@ Augmented reality has come a long way and is helping countless people with their
 
 ## Sources
 
-<p>Madison, D. (2018). The future of augmented reality in healthcare. HealthManagement.Org The Journal, 18(1).
-	42-45. https://healthmanagement.org/c/healthmanagement/issuearticle/the-future-of-augmented-reality-in-healthcare</p>
+<div class="links">Madison, D. (2018). The future of augmented reality in healthcare. HealthManagement.Org The Journal, 18(1).
+	42-45. https://healthmanagement.org/c/healthmanagement/issuearticle/the-future-of-augmented-reality-in-healthcare</div>
 
-<p>Zhu, E., Hadadgar, A., Masiello, I., Zary, N. (2014)Augmented reality in healthcare education: an integrative review. PeerJ 2:e469.
-	https://doi.org/10.7717/peerj.469</p>
+<div class="links">Zhu, E., Hadadgar, A., Masiello, I., Zary, N. (2014)Augmented reality in healthcare education: an integrative review. PeerJ 2:e469.
+	https://doi.org/10.7717/peerj.469</div>
 
-<p>Velichenko, Y. (2022, January 27). Healthcare Education Makes Studying and Practice More Effective.     https://postindustria.com/how-augmented-reality-in-healthcare-education-makes-studying-and-practice-more-effective/</p>
+<div class="links">Velichenko, Y. (2022, January 27). Healthcare Education Makes Studying and Practice More Effective.     https://postindustria.com/how-augmented-reality-in-healthcare-education-makes-studying-and-practice-more-effective/</div>
 
-<p>https://en.wikipedia.org/wiki/Augmented_reality</p
+<div class="links">https://en.wikipedia.org/wiki/Augmented_reality</div>
 
-<p>https://www.fingent.com/blog/augmented-reality-in-healthcare-use-cases-examples-and-trends/</p>
+<div class="links">https://www.fingent.com/blog/augmented-reality-in-healthcare-use-cases-examples-and-trends/</div>
 
-<p>https://www.medicalaugmentedreality.org/</p>
+<div class="links">https://www.medicalaugmentedreality.org/</div>
 
-==========================================================
 
-[GitHub](https://github.com/thisispaniz)
-[Twitter](https://twitter.com/PanizZiaie)
 
