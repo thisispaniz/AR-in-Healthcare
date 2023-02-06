@@ -84,3 +84,8 @@ Augmented reality has come a long way and is helping countless people with their
 
 <p>https://www.medicalaugmentedreality.org/</p>
 
+==========================================================
+
+[GitHub](https://github.com/thisispaniz)
+[Twitter](https://twitter.com/PanizZiaie)
+
