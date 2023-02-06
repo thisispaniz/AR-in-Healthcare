@@ -12,9 +12,6 @@ The most important benefit of augmented reality is that elements of the virtual 
 	
 Students can interactively participate. Instead of being a passive recipient of the information, they can become active learners. Computer-generated simulations of patients allow students to explore and learn in detail the different situations without the risk of studying an actual patient.
 
-![6628915](https://user-images.githubusercontent.com/99075803/216924395-8dd4fd41-ffd6-4fa7-9c2c-d58100394d78.jpg)
-Image by Freepik
-
 ## Medical augmented reality
 
 “AR has the potential to revolutionize medicine. During surgery, AR systems provide medical imaging data and other patient information superimposed on the operation area in the most intuitive way. Furthermore, AR aided navigation systems can reduce the risk of complications and improve the safety and quality of surgeries, AR education systems train the surgeons of tomorrow to acquire the critical skills and AR rehabilitation concepts help patients to recover faster after interventions. However, while research is rapidly evolving in the field of Medical Augmented Reality, strong relationships between doctors, engineers and industry are the key for the development and implementation of new AR systems in medicine.” Stated on the medical augmented reality website.
