@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#.page-header {
+#     background-image: url("/Digital-Health-Blog/assets/header-art.jpg"), linear-gradient(#77A063, #77A063);
+#     backdrop-filter: blur(2px);
+#     height: 300px;
+#     background-position: right;
+#     background-repeat: no-repeat;
+#     text-align: center;
+#     color: #10180C;
+#   }
+p{
+  padding: 30px;
+  color: rgb(71, 71, 71);
+}
